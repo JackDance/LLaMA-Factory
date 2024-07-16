@@ -1,13 +1,13 @@
 {
   "HuatuoGPT2_sft_instruct_GPT4_sharegpt": {
-  "file_name": "HuatuoGPT2_sft_instruct_GPT4_sharegpt.jsonl",
+  "file_name": "/root/autodl-tmp/medicalgpt_train_data/SFT/HuatuoGPT2_sft_instruct_GPT4_sharegpt.jsonl",
   "formatting": "sharegpt",
   "columns": {
     "messages": "conversations"
     }
   },
   "sharegpt_zh_38K_format": {
-  "file_name": "sharegpt_zh_38K_format.jsonl",
+  "file_name": "/root/autodl-tmp/medicalgpt_train_data/SFT/sharegpt_zh_38K_format.jsonl",
   "formatting": "sharegpt",
   "columns": {
     "messages": "conversations"

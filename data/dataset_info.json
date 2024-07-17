@@ -13,6 +13,26 @@
     "messages": "conversations"
     }
   },
+  "dpo_zh_medical_sharegpt_format": {
+  "file_name": "/root/autodl-tmp/medicalgpt_train_data/DPO/dpo_zh_medical_sharegpt_format.json",
+  "formatting": "sharegpt",
+  "ranking": true,
+  "columns": {
+    "messages": "conversations",
+    "chosen": "chosen",
+    "rejected": "rejected"
+    }
+  },
+  "dpo_zh_universe_sharegpt_format": {
+  "file_name": "/root/autodl-tmp/medicalgpt_train_data/DPO/dpo_zh_universe_sharegpt_format.jsonl",
+  "formatting": "sharegpt",
+  "ranking": true,
+  "columns": {
+    "messages": "conversations",
+    "chosen": "chosen",
+    "rejected": "rejected"
+    }
+  },
   "identity": {
     "file_name": "identity.json"
   },
